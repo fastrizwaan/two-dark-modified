@@ -1,0 +1,42 @@
+<style-scheme name="Two Dark Modified" id="two_dark_modified" version="1.0">
+  <author>Mohammed Asif Ali Rizvan</author>
+  <description>Atom One Dark based Theme for Gedit/Scribes/Scratch.</description>
+
+  <style name="text"	foreground="#abb2bf" background="#202329" />
+  <style name="cursor"	foreground="#5cb0f5" />
+  <style name="current-line"	background="#1a1c21" />
+  <style name="line-numbers"	foreground="#5f5a60" background="#202329" />
+  <style name="selection"	foreground="#f6f5f4" background="#627e4f" />
+  <style name="bracket-match"	foreground="#282c34" background="#c678dd" />
+  <style name="bracket-mismatch"	background="#efefef" />
+  <style name="search-match"	foreground="#5f5a60" background="#abb2bf" />
+  <style name="def:string"	foreground="#98c379" />
+  <style name="def:character"	foreground="#98c379" />
+  <style name="def:special-char"	foreground="#98c379" />
+  <style name="def:number"	foreground="#d19a66" />
+  <style name="def:decimal"	foreground="#d19a66" />
+  <style name="def:floating-point"	foreground="#d19a66" />
+  <style name="def:complex"	foreground="#d19a66" />
+  <style name="def:base-n-integer"	foreground="#d19a66" />
+  <style name="def:boolean"	foreground="#d19a66" />
+  <style name="def:builtin"	foreground="#c678dd" />
+  <style name="def:keyword"	foreground="#c678dd" />
+  <style name="def:function"	foreground="#5cb0f5" />
+  <style name="def:type"	foreground="#c678dd" />
+  <style name="def:preprocessor"	foreground="#c678dd" />
+  <style name="def:identifier"	foreground="#c678dd" />
+  <style name="def:operator"	foreground="#80a0ff" />
+  <style name="def:statement"	foreground="#c678dd" />
+  <style name="def:constant"	foreground="#d19a66" />
+  <style name="def:special-constant"	foreground="#c678dd" />
+  <style name="def:error"	foreground="#efefef" background="#282c34" />
+  <style name="def:comment"	foreground="#5f5a60" />
+  <style name="def:shebang"	foreground="#d19a66" />
+  <style name="def:doc-comment-element"	foreground="#5f5a60" />
+  <style name="def:note"	foreground="#5f5a60" />
+  <style name="sh:variable"	foreground="#80a0ff" />
+  <style name="sh:variable-definition"	foreground="#bebebe" />
+  <style name="sh:common-command"	foreground="#ffbe6f" />
+  <style name="sh:others"	foreground="#ffffff" />
+  <style name="sh:subshell"	foreground="#ffbe6f" />
+</style-scheme>
